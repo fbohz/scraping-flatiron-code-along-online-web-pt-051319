@@ -41,4 +41,5 @@ end
 
 Scraper.new.get_page
  binding.pry
+Scraper.new.print_courses
 
