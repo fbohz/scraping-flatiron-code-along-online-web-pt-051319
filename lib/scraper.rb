@@ -40,6 +40,6 @@ end
 
 
 Scraper.new.get_page
- binding.pry
+ #binding.pry
 Scraper.new.print_courses
 
